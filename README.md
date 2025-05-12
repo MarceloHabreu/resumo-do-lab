@@ -1,4 +1,4 @@
-# Resumo do Lab Java Cloud Native
+Lousa # Resumo do Lab Java Cloud Native
 
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO Java Cloud Native.
 
@@ -80,7 +80,26 @@ De forma simples: nossos recursos virtualizados são disponibilizados por grande
 * Inclui medidas como criptografia, autenticação multifator, firewalls e compliance com normas (como LGPD, GDPR, ISO).
 * Na nuvem pública, é comum adotar o modelo de **responsabilidade compartilhada**: o provedor cuida da infraestrutura e o cliente dos dados e acessos.
 
+## Tipos de Serviços em Nuvem
+
+### IaaS (Infrastructure as a Service)
+
+* Fornecimento de infraestrutura básica como servidores, redes, máquinas virtuais e armazenamento.
+* O usuário gerencia o sistema operacional, os aplicativos e os dados.
+* Exemplo: Amazon EC2, Google Compute Engine, Microsoft Azure VMs.
+
+### PaaS (Platform as a Service)
+
+* Oferece uma plataforma com ferramentas e serviços para desenvolvimento, teste e implantação de aplicações.
+* O usuário gerencia apenas as aplicações, enquanto o provedor gerencia a infraestrutura e a plataforma.
+* Exemplo: Google App Engine, Heroku, Azure App Services.
+
+### SaaS (Software as a Service)
+
+* Aplicações prontas para uso final entregues pela internet.
+* O usuário não se preocupa com infraestrutura ou manutenção.
+* Exemplo: Gmail, Google Docs, Microsoft 365, Salesforce.
+
 ---
 
 Essas anotações cobrem os principais conceitos de computação em nuvem aprendidos no laboratório da DIO. Podem ser atualizadas conforme o conteúdo do curso evoluir.
-
