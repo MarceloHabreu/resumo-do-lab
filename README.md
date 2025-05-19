@@ -100,6 +100,15 @@ De forma simples: nossos recursos virtualizados são disponibilizados por grande
 * O usuário não se preocupa com infraestrutura ou manutenção.
 * Exemplo: Gmail, Google Docs, Microsoft 365, Salesforce.
 
+## Computação e Rede
+
+* A computação em nuvem depende fortemente de uma infraestrutura de rede confiável e escalável.
+* Os recursos são acessados por meio da internet ou redes privadas, exigindo baixa latência e alta largura de banda.
+* A segmentação de rede, firewalls e VPNs são essenciais para garantir a segurança e o isolamento dos dados.
+* Conceitos como **Content Delivery Network (CDN)** são usados para distribuir conteúdo globalmente com rapidez e eficiência.
+* Protocolos como HTTP, HTTPS, TCP/IP e DNS são fundamentais para a comunicação entre os serviços na nuvem.
+* O balanceamento de carga distribui o tráfego entre múltiplos servidores para garantir disponibilidade e desempenho.
+
 ---
 
 Essas anotações cobrem os principais conceitos de computação em nuvem aprendidos no laboratório da DIO. Podem ser atualizadas conforme o conteúdo do curso evoluir.
